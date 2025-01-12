@@ -17,7 +17,7 @@
           
 </div></br>
 
-Buscando ser desenvolvedor **Back-End** desde o fim de 2022. Curso o **4º período** de **Análise e Desenvolvimento de Sistemas** na faculdade.
+Evoluindo como ser desenvolvedor **Back-End** desde o fim de 2022. Curso o **5º período** de **Análise e Desenvolvimento de Sistemas** na faculdade.
 Atualmente foco no **Javascript** e estou **iniciando em Node.JS e SQL**. Faço projetos com desejo em **evoluir** meu conhecimento e assimilar novas tecnologias.
 
 ### Outros conhecimentos:
