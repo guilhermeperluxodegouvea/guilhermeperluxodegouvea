@@ -17,13 +17,13 @@
           
 </div></br>
 
-Evoluindo como ser desenvolvedor **Back-End** desde o fim de 2022. Curso o **5º período** de **Análise e Desenvolvimento de Sistemas** na faculdade.
-Atualmente foco no **Javascript** e estou **iniciando em Node.JS e SQL**. Faço projetos com desejo em **evoluir** meu conhecimento e assimilar novas tecnologias.
+Evoluindo como ser desenvolvedor **Back-End** desde o fim de 2022. Curso o **5º período** de **Análise e Desenvolvimento de Sistemas**.
+Atualmente foco no **Javascript** e estou **me especializando em Node.JS e estudando SQL**. Faço projetos com desejo em **evoluir** meu conhecimento e assimilar novas tecnologias.
 
 ### Outros conhecimentos:
 - Conhecimento inicial de **redes de computadores** (**Conceitos Básicos de Redes** pela **Cisco Network Academy**) <br/>
 - Prática básica de **Powershell** <br/>
-- **Inglês Intermediário-Avançado** (3 anos de curso e praticando desde então) <br/>
+- **Inglês Avançado** <br/>
 - Técnico em **telecomunicações** pela FAETEC <br/>
 
 
