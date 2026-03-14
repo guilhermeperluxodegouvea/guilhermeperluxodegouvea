@@ -18,12 +18,12 @@
           
 </div></br>
 
-Evoluindo como desenvolvedor **Back-End** desde o fim de 2022. Curso o **5º período** de **Análise e Desenvolvimento de Sistemas**.
-Atualmente foco no **Typescript** e estou **me especializando em Node.JS e APIs REST**. Faço projetos com desejo em **evoluir** meu conhecimento e assimilar novas tecnologias.
+Evoluindo como desenvolvedor **Back-End** desde o fim de 2022. Graduado em **Análise e Desenvolvimento de Sistemas**.
+Atualmente foco em **Typescript, Node.JS e APIs REST**. Faço projetos com desejo em **evoluir** meu conhecimento e assimilar novas tecnologias. Estudo AWS visando a certificação.
 
 ### Outros conhecimentos:
-- Conhecimento inicial de **redes de computadores** (**Conceitos Básicos de Redes** pela **Cisco Network Academy**) <br/>
-- Prática básica de **Powershell** <br/>
+- Conhecimentos em **redes de computadores** (**Conceitos Básicos de Redes** e **Gerenciamento de Ameaças Cibernéticas** pela **Cisco Network Academy**) <br/>
+- Prática com **Powershell** e **Bash** <br/>
 - **Inglês Avançado** <br/>
 - Técnico em **telecomunicações** pela FAETEC <br/>
 
